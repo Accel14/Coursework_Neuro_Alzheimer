@@ -1,0 +1,9 @@
+﻿numpy
+mne
+scipy
+fastapi
+joblib
+pandas
+pydantic
+uvicorn
+pylsl
